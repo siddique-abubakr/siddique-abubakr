@@ -14,35 +14,12 @@ Outside of feature work, I care about accessibility, code quality, and shipping 
 
 ### Core stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddique-abubakr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddique-abubakr&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddique-abubakr&theme=tokyonight)
-
-### Trophies & achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siddique-abubakr&theme=tokyonight&no-frame=true&margin-w=4)
-
-### Contribution activity graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddique-abubakr&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Alternative summary cards (pick a different look)
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddique-abubakr&theme=tokyonight)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddique-abubakr&theme=tokyonight)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddique-abubakr&theme=tokyonight)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddique-abubakr&theme=tokyonight)
-
-### Visitor counter
-
-![Profile Views](https://komarev.com/ghpvc/?username=siddique-abubakr&style=flat-square&color=blue)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiddique-abubakr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-### Detailed metrics (optional, heavier render)
-
-![Metrics](https://metrics.lecoq.io/siddique-abubakr?template=classic&base=header,activity,community,trophy,topics&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
-
----
 
 ## Tech Stack
 
