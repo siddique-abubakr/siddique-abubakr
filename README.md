@@ -12,10 +12,6 @@ Outside of feature work, I care about accessibility, code quality, and shipping 
 
 ## GitHub Stats
 
-### Core stats
-
-### Alternative summary cards (pick a different look)
-
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddique-abubakr&theme=tokyonight)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddique-abubakr&theme=tokyonight)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddique-abubakr&theme=tokyonight)
