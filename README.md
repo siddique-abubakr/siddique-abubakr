@@ -6,10 +6,9 @@
 </div>
 
 ▸ Hi, I'm Abubakar Siddique ([@siddique-abubakr](https://github.com/siddique-abubakr))<br>
-▸ Full Stack Engineer at [Arbisoft](https://arbisoft.com) — Litmustest, an edX-based hiring assessment platform<br>
-▸ Interested in Python, React, Django, edTech, and clean CI<br>
-▸ Currently working with Django, React, Celery, and the edX / ORA2 stack<br>
-▸ Open to collaborate on open-source Python / React / edTech projects<br>
+▸ Interested in Python, React, Django, FastAPI, Linux, edTech, and clean CI<br>
+▸ Currently working with Django, FastAPI, React, Celery, and the edX / ORA2 stack<br>
+▸ Open to collaborate on open-source Python / FastAPI / React / edTech projects<br>
 ▸ Reach me: abubakar.siddique@arbisoft.com · [LinkedIn](https://linkedin.com/in/siddique-abubakr)
 
 ---
